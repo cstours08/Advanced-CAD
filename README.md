@@ -17,7 +17,7 @@ For this part we needed to follow a set of instructions to construct a gear and 
 # Gearbox
 
 ## Description
-
+This was a continuation or rather a completion of the gears assignment, in this portion we needed to create several subassemblies and many smaller parts, and then use those to create a main assembly that became a gearbox (ROOLLL CREDITS!!). The gearbox is capable of spinning any of the gears, and having all the other gears reacting apprioatly    
 ## Revaltions
 ## SolidWorks Image
 ### Links
