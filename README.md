@@ -37,6 +37,8 @@ This was a continuation or rather a completion of the gears assignment, in this 
 # Motion Study
 
 ## Description
+
+
 ## Revaltions
 ## SolidWorks Image
 ### Links
