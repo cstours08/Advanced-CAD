@@ -11,13 +11,14 @@ For this part we needed to follow a set of instructions to construct a gear and 
 * SolidWorks Tutorials on youtube are decrees of God, and also googling images of what your trying to find is very helpful. Not Bing, Google. Bing is the Anti-christ. 
 * Calling on a "friend" (or someone better then you) for assitance is a great way to progress and get a fresh perspective on what you are working on. 
 ## SolidWorks Image
+<img src="CAD Screenshots/root gear image.PNG">
 
 ### Links
 
 # Gearbox
 
 ## Description
-
+This was a continuation or rather a completion 
 ## Revaltions
 ## SolidWorks Image
 ### Links
