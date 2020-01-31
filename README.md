@@ -41,10 +41,13 @@ This assignment is completely separate from anything too do with gears, it consi
 
 ## Revelations
 * Custom parts are fun, just make sure you follow the images it doesn’t take much to get thrown off.
-* Solidworks tutorials are very useful, they give you a good demonstration of how too use features you have never used and some of them even explain the concepts behind them and give you the knowledge and understanding to those tools to there fullest extent fullest extent.  
-*
+* Solidworks tutorials are very useful, they give you a good demonstration of how too use features you have never used and some of them even explain the concepts behind them and give you the knowledge and understanding to use those tools to there fulles, fullest extent.  
+* Always note any changes you make something as small as a convenient mate can be enough to screw over the next portion of a project.
 
 ## SolidWorks Image
+
+<img src="" width=300px>
+
 ### Links
 
 # Stress Analysis
