@@ -25,7 +25,7 @@ For this part we needed to follow a set of instructions to construct a gear and 
 <img src="CAD Screenshots/root gear image.PNG" width=300px>
 
 ### Links
-
+- [The GearBox I made](https://github.com/cstours08/Advanced-CAD/blob/master/Assemblys/GearBox.SLDASM)
 # Gearbox
 
 ## Description
