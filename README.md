@@ -25,7 +25,8 @@ For this part we needed to follow a set of instructions to construct a gear and 
 <img src="CAD Screenshots/root gear image.PNG" width=300px>
 
 ### Links
-- [The GearBox I made](https://github.com/cstours08/Advanced-CAD/blob/master/Assemblys/GearBox.SLDASM)
+[The download link of the GearBox I made (includes the gears)](https://github.com/cstours08/Advanced-CAD/blob/master/Assemblys/GearBox.SLDASM)
+
 # Gearbox
 
 ## Description
@@ -41,6 +42,7 @@ This was a continuation or rather a completion of the gears assignment, in this 
 <img src="CAD Screenshots/gearbox capture.PNG" width=300px>
 
 ### Links
+[GearBox that I made](https://github.com/cstours08/Advanced-CAD/blob/master/Assemblys/GearBox.SLDASM)
 
 # Motion Study
 
@@ -57,6 +59,7 @@ This assignment is completely separate from anything too do with gears, it consi
 <img src="CAD Screenshots/Motion study capture.PNG" width=300px>
 
 ### Links
+[The download link to the pointless platform bot I spent to much time on](https://github.com/cstours08/Advanced-CAD/blob/master/Assemblys/Motion%20Study.SLDASM)
 
 # Stress Analysis
 
@@ -72,3 +75,4 @@ This "project" takes all of 10 minutes so long as you continue working on it, th
 <img src="CAD Screenshots/stress analysis capture.PNG" width=300px>
 
 ### Links
+[Download for my stress test part](https://github.com/cstours08/Advanced-CAD/blob/master/Assemblys/Stress%20Analysis.SLDPRT)
