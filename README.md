@@ -53,6 +53,13 @@ This assignment is completely separate from anything too do with gears, it consi
 # Stress Analysis
 
 ## Description
+This "project" takes all of 10 minutes so long as you continue working on it, this was quite different then the past assignments as it focused very little on the actual part and so much more on what you can do to the part using the incredible SolidWorks. ## Revelations
+
 ## Revelations
+* Follow instructions, disobedience serves no purpose. At least in this case. 
+* SolidWorks has so much more then meets the eye, and that’s just when looking at the base program not including the unlimited sources of new features and materials that come from the community supporting it. 
+* Use the features shown off during this brief assignment, they can prove very valuable when looking at the actual stability of your build.
+
 ## SolidWorks Image
+<img src="CAD Screenshots/stress analysis capture.PNG" width=300px>
 ### Links
