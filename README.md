@@ -62,4 +62,5 @@ This "project" takes all of 10 minutes so long as you continue working on it, th
 
 ## SolidWorks Image
 <img src="CAD Screenshots/stress analysis capture.PNG" width=300px>
+
 ### Links
