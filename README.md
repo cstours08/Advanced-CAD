@@ -30,7 +30,7 @@ This was a continuation or rather a completion of the gears assignment, in this 
 * Think about your process, thinking about your thinking improves your thinking ([CGP Grey](https://www.youtube.com/watch?v=NVGuFdX5guE), 2020). 
 
 ## SolidWorks Image
-<img src="CAD Screenshots\gearbox capture.PNG" width=300px>
+<img src="CAD Screenshots/gearbox capture.PNG" width=300px>
 
 ### Links
 
@@ -46,7 +46,7 @@ This assignment is completely separate from anything too do with gears, it consi
 
 ## SolidWorks Image
 
-<img src="" width=300px>
+<img src="CAD Screenshots/Motion study capture.PNG" width=300px>
 
 ### Links
 
